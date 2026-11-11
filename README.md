@@ -2,15 +2,23 @@
 
 ### Less sleek. Less CLONK. Almost nothing. ✨
 
-**A miniature, Wi-Fi-connected, one-knob machine. Purpose to be determined.**
+Where [THE CLONKER 10000](https://github.com/djacobson/clonker-10000) packs a gloriously oversized remote with beautiful mechanical controls, THE TWINKLER .01™ asks how much machine we can hide underneath just one knob.
 
 <p align="center">
-  <img src="images/room-selector-knob.jpg"
-       width="280"
-       alt="The black metal room-selector knob that inspired the Twinkler concept">
+  <img src="images/twinkler_knob.jpeg"
+       width="240"
+       alt="The black metal knob that inspired THE TWINKLER .01">
+  &nbsp;&nbsp;
+  <img src="images/xiao.jpeg"
+       width="240"
+       alt="Seeed Studio XIAO ESP32C3 miniature Wi-Fi development board">
 </p>
 
-*Concept image: the knob that started the trouble. Add the photo at `images/room-selector-knob.jpg`.*
+<p align="center">
+  <sub>The inspiration: one substantial metal knob and one ridiculously tiny Seeed Studio XIAO ESP32C3.</sub>
+</p>
+
+**A miniature, Wi-Fi-connected, one-knob machine. Purpose to be determined.**
 
 ---
 
@@ -59,10 +67,6 @@ The challenge is to make the **smallest complete object that's still enjoyable t
 This repository is a parking place for sketches, experiments, measurements, and ideas. Nothing here should be mistaken for a validated hardware design.
 
 ## The Philosophy
-
-The Clonker 10000 asks how many beautiful physical controls can be packed into one gloriously oversized remote.
-
-The Twinkler .01 asks the opposite question:
 
 **How much machine can hide underneath one knob?**
 
