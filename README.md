@@ -4,15 +4,20 @@
 
 Where [THE CLONKER 10000](https://github.com/djacobson/clonker-10000) packs a gloriously oversized remote with beautiful mechanical controls, THE TWINKLER .01™ asks how much machine we can hide underneath just one knob.
 
-<p align="center">
-  <img src="images/twinkler_knob.jpeg"
-       width="240"
-       alt="The black metal knob that inspired THE TWINKLER .01">
-  &nbsp;&nbsp;
-  <img src="images/xiao.jpeg"
-       width="240"
-       alt="Seeed Studio XIAO ESP32C3 miniature Wi-Fi development board">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="images/twinkler_knob.jpeg"
+           width="240"
+           alt="The black metal knob that inspired THE TWINKLER .01">
+    </td>
+    <td align="center" valign="middle">
+      <img src="images/xiao.jpeg"
+           width="240"
+           alt="Seeed Studio XIAO ESP32C3 miniature Wi-Fi development board">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>The inspiration: one substantial metal knob and one ridiculously tiny Seeed Studio XIAO ESP32C3.</sub>
