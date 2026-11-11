@@ -1,6 +1,6 @@
 # THE TWINKLER .01™
 
-### Less sleek. Less CLONK. Almost nothing. ✨
+### Just a Twist and a Push. ✨
 
 Where [THE CLONKER 10000](https://github.com/djacobson/clonker-10000) packs a gloriously oversized remote with beautiful mechanical controls, THE TWINKLER .01™ asks how much machine we can hide underneath just one knob.
 
@@ -82,3 +82,23 @@ Any of those outcomes would be acceptable.
 **THE TWINKLER .01™**
 
 *One knob. Infinite opportunities to overengineer it.*
+
+---
+
+## The Tagline Contest ✨
+
+One knob. So many ways to describe absolutely nothing.
+
+Our current favorite:
+
+**Just a Twist and a Push.**
+
+Other contenders:
+
+- One Magic Knob.
+- One Knob. Endless Possibilities.
+- Twist. Push. Wonder.
+- One Knob. Three Moves. Zero Purpose.
+- A Little Twist of Nothing.
+
+*More nominations welcome. Practicality not required.*
